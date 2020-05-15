@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\tugas_akhir\tugas_akhir\bin\Debug\tugas_akhir.exe.config
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\bin\Debug\tugas_akhir.exe.config
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\bin\Debug\tugas_akhir.exe
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\bin\Debug\tugas_akhir.pdb
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\obj\Debug\tugas_akhir.csprojAssemblyReference.cache
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\obj\Debug\tugas_akhir.Form1.resources
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\obj\Debug\tugas_akhir.Properties.Resources.resources
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\obj\Debug\tugas_akhir.csproj.GenerateResource.cache
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\obj\Debug\tugas_akhir.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\obj\Debug\tugas_akhir.exe
+C:\Users\Fernando\Downloads\tugas_akhir\tugas_akhir\tugas_akhir\obj\Debug\tugas_akhir.pdb
